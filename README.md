@@ -17,6 +17,6 @@ We will be building a simple 2 player game.  The players will meet on the leet w
 
 Requirements:
 
-A developer account on the LEET sandbox:   
-Unreal Engine 4.11 or higher built form the github source.
+A developer account on the LEET sandbox
+Unreal Engine 4.11 or higher built from the github source.
 Windows 7 or higher with MS Visual Studio 2015
